@@ -1,0 +1,5 @@
+{
+    "editor.linkedEditing": false,
+    "editor.experimental.pasteActions.enabled": false,
+    "files.autoSave": "afterDelay"
+}
